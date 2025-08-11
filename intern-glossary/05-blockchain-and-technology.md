@@ -2,80 +2,80 @@
 
 - **Blockchain** — Distributed ledger; shared, tamper-evident record of transactions.
   - Example: Transparent list of transfers no one can secretly change.
-  - Mandarin: 区块链 (Qūkuàiliàn) | Hindi: ब्लॉकचेन (Blŏkacēna)
+  - *Mandarin: 区块链 (Qūkuàiliàn) | Hindi: ब्लॉकचेन (Blŏkacēna)*
 - **dApp** — App that runs on a blockchain (no central server).
   - Example: Marketplace smart contract.
-  - Mandarin: 去中心化应用 (Qù zhōngxīnhuà yìngyòng) | Hindi: विकेन्द्रीकृत एप्लिकेशन (Vikēndrīkr̥ta ēplikeśana)
+  - *Mandarin: 去中心化应用 (Qù zhōngxīnhuà yìngyòng) | Hindi: विकेन्द्रीकृत एप्लिकेशन (Vikēndrīkr̥ta ēplikeśana)*
 - **Web3** — Internet model with decentralization and user-owned data.
   - Example: Wallet-based login.
-  - Mandarin: 网络3.0 (Wǎngluò 3.0) | Hindi: वेब3 (Vēba3)
+  - *Mandarin: 网络3.0 (Wǎngluò 3.0) | Hindi: वेब3 (Vēba3)*
 - **NFT** — Unique token representing a digital asset.
   - Example: IntelReport NFT.
-  - Mandarin: 非同质化代币 (Fēi tóngzhìhuà dàibì) | Hindi: गैर-फंजिबल टोकन (Gaira-phañjibala ṭōkana)
+  - *Mandarin: 非同质化代币 (Fēi tóngzhìhuà dàibì) | Hindi: गैर-फंजिबल टोकन (Gaira-phañjibala ṭōkana)*
 - **Open Source Software** — Code you can use/modify/share, often free.
-  - Mandarin: 开源软件 (Kāiyuán ruǎnjiàn) | Hindi: ओपन सोर्स सॉफ्टवेयर (Ōpana sōrsa sŏphṭavēyara)
+  - *Mandarin: 开源软件 (Kāiyuán ruǎnjiàn) | Hindi: ओपन सोर्स सॉफ्टवेयर (Ōpana sōrsa sŏphṭavēyara)*
 - **Creative Commons Zero (CC0)** — No-rights-reserved; anyone can reuse.
-  - Mandarin: 创作共用零许可 (Chuàngzuò gòngyòng líng xǔkě) | Hindi: क्रिएटिव कॉमन्स जीरो (Kriēṭiva kŏmansa jīrō)
+  - *Mandarin: 创作共用零许可 (Chuàngzuò gòngyòng líng xǔkě) | Hindi: क्रिएटिव कॉमन्स जीरो (Kriēṭiva kŏmansa jīrō)*
 - **Smart Contract** 📜 — Self-executing code on a blockchain.
   - Example: Automatically release payment when work is done.
-  - Mandarin: 智能合约 (Zhìnéng héyuē) | Hindi: स्मार्ट अनुबंध (Smārṭ anubandha)
+  - *Mandarin: 智能合约 (Zhìnéng héyuē) | Hindi: स्मार्ट अनुबंध (Smārṭ anubandha)*
 - **DAO** — Decentralized Autonomous Organization, run by code and community votes.
   - Example: Group manages funds via blockchain voting.
-  - Mandarin: 去中心化自治组织 (Qù zhōngxīnhuà zìzhì zǔzhī) | Hindi: विकेन्द्रीकृत स्वायत्त संगठन (Vikēndrīkr̥ta svāyatta saṅghaṭana)
+  - *Mandarin: 去中心化自治组织 (Qù zhōngxīnhuà zìzhì zǔzhī) | Hindi: विकेन्द्रीकृत स्वायत्त संगठन (Vikēndrīkr̥ta svāyatta saṅghaṭana)*
 - **Tokenomics** — Study of token supply, demand, and value.
   - Example: How tokens are distributed and used.
-  - Mandarin: 代币经济学 (Dàibì jīngjìxué) | Hindi: टोकन अर्थशास्त्र (Ṭōkana arthashāstra)
+  - *Mandarin: 代币经济学 (Dàibì jīngjìxué) | Hindi: टोकन अर्थशास्त्र (Ṭōkana arthashāstra)*
 - **Gas Fee** — Payment for processing blockchain transactions.
   - Example: Pay ETH to send a token.
-  - Mandarin: 燃气费 (Ránqì fèi) | Hindi: गैस शुल्क (Gaisa śulka)
+  - *Mandarin: 燃气费 (Ránqì fèi) | Hindi: गैस शुल्क (Gaisa śulka)*
 - **Hash Function** — Math that turns data into a unique code.
   - Example: SHA-256 for Bitcoin.
-  - Mandarin: 哈希函数 (Hāxī hánshù) | Hindi: हैश फंक्शन (Haiśa phaṅkśana)
+  - *Mandarin: 哈希函数 (Hāxī hánshù) | Hindi: हैश फंक्शन (Haiśa phaṅkśana)*
 - **Public Key** — Cryptographic code for receiving funds.
   - Example: Your wallet address.
-  - Mandarin: 公钥 (Gōng yào) | Hindi: सार्वजनिक कुंजी (Sārvajanika kuñjī)
+  - *Mandarin: 公钥 (Gōng yào) | Hindi: सार्वजनिक कुंजी (Sārvajanika kuñjī)*
 - **Private Key** — Secret code for accessing funds.
   - Example: Used to sign transactions.
-  - Mandarin: 私钥 (Sī yào) | Hindi: निजी कुंजी (Nijī kuñjī)
+  - *Mandarin: 私钥 (Sī yào) | Hindi: निजी कुंजी (Nijī kuñjī)*
 - **Multi-Sig** — Requires multiple approvals for a transaction.
   - Example: 2-of-3 team members must sign.
-  - Mandarin: 多重签名 (Duōchóng qiānmíng) | Hindi: बहु-हस्ताक्षर (Bahu-hastākṣara)
+  - *Mandarin: 多重签名 (Duōchóng qiānmíng) | Hindi: बहु-हस्ताक्षर (Bahu-hastākṣara)*
 - **Cold Wallet** — Offline storage for crypto.
   - Example: Hardware wallet.
-  - Mandarin: 冷钱包 (Lěng qiánbāo) | Hindi: कोल्ड वॉलेट (Kōlḍ vālēṭa)
+  - *Mandarin: 冷钱包 (Lěng qiánbāo) | Hindi: कोल्ड वॉलेट (Kōlḍ vālēṭa)*
 - **Hot Wallet** — Online storage for crypto.
   - Example: Mobile wallet app.
-  - Mandarin: 热钱包 (Rè qiánbāo) | Hindi: हॉट वॉलेट (Hŏṭ vālēṭa)
+  - *Mandarin: 热钱包 (Rè qiánbāo) | Hindi: हॉट वॉलेट (Hŏṭ vālēṭa)*
 - **Exchange** — Platform to buy/sell crypto.
   - Example: Binance, Coinbase.
-  - Mandarin: 交易所 (Jiāoyì suǒ) | Hindi: एक्सचेंज (Ēkṣēnja)
+  - *Mandarin: 交易所 (Jiāoyì suǒ) | Hindi: एक्सचेंज (Ēkṣēnja)*
 - **Liquidity** — Ease of converting assets to cash.
   - Example: High liquidity means easy trading.
-  - Mandarin: 流动性 (Liúdòng xìng) | Hindi: तरलता (Taralatā)
+  - *Mandarin: 流动性 (Liúdòng xìng) | Hindi: तरलता (Taralatā)*
 - **Staking** — Locking tokens to support network and earn rewards.
   - Example: Stake ETH for interest.
-  - Mandarin: 质押 (Zhìyā) | Hindi: स्टेकिंग (Sṭēkiṅga)
+  - *Mandarin: 质押 (Zhìyā) | Hindi: स्टेकिंग (Sṭēkiṅga)*
 - **Yield Farming** — Earning rewards by providing liquidity.
   - Example: Lend tokens for interest.
-  - Mandarin: 收益耕作 (Shōuyì gēngzuò) | Hindi: यील्ड फार्मिंग (Yīlḍa phārmiṅga)
+  - *Mandarin: 收益耕作 (Shōuyì gēngzuò) | Hindi: यील्ड फार्मिंग (Yīlḍa phārmiṅga)*
 - **Airdrop** — Free distribution of tokens.
   - Example: New project gives tokens to users.
-  - Mandarin: 空投 (Kōngtóu) | Hindi: एयरड्रॉप (Ēyaraḍrŏpa)
+  - *Mandarin: 空投 (Kōngtóu) | Hindi: एयरड्रॉप (Ēyaraḍrŏpa)*
 - **Whitepaper** — Document explaining a project.
   - Example: Bitcoin whitepaper.
-  - Mandarin: 白皮书 (Báipíshū) | Hindi: श्वेतपत्र (Śvētapatra)
+  - *Mandarin: 白皮书 (Báipíshū) | Hindi: श्वेतपत्र (Śvētapatra)*
 - **Roadmap** — Timeline of project goals.
   - Example: Milestones for new features.
-  - Mandarin: 路线图 (Lùxiàntú) | Hindi: रोडमैप (Rōḍamēpa)
+  - *Mandarin: 路线图 (Lùxiàntú) | Hindi: रोडमैप (Rōḍamēpa)*
 - **Mainnet** — Live blockchain network.
   - Example: Ethereum mainnet.
-  - Mandarin: 主网 (Zhǔwǎng) | Hindi: मेननेट (Mēnaneṭa)
+  - *Mandarin: 主网 (Zhǔwǎng) | Hindi: मेननेट (Mēnaneṭa)*
 - **Testnet** — Blockchain for testing.
   - Example: Try code before launch.
-  - Mandarin: 测试网 (Cèshì wǎng) | Hindi: टेस्टनेट (Ṭēsṭaneṭa)
+  - *Mandarin: 测试网 (Cèshì wǎng) | Hindi: टेस्टनेट (Ṭēsṭaneṭa)*
 - **Node** — Computer that helps run a blockchain.
   - Example: Full node stores all data.
-  - Mandarin: 节点 (Jiédiǎn) | Hindi: नोड (Nōḍa)
+  - *Mandarin: 节点 (Jiédiǎn) | Hindi: नोड (Nōḍa)*
 - **Validator** — Person or system that checks transactions.
   - Example: Validators approve new blocks.
-  - Mandarin: 验证者 (Yànzhèng zhě) | Hindi: सत्यापनकर्ता (Satyāpanakarta)
+  - *Mandarin: 验证者 (Yànzhèng zhě) | Hindi: सत्यापनकर्ता (Satyāpanakarta)*
