@@ -3,70 +3,70 @@
 ## 1. General Cybersecurity
 - **Cybersecurity** — Protecting computers, networks, and data from harm or unauthorized access.
   - Example: Lock your phone with a passcode to prevent misuse.
-  - Mandarin: 网络安全 (Wǎngluò ānquán) | Hindi: साइबर सुरक्षा (Sāibara surakṣā)
+  - *Mandarin: 网络安全 (Wǎngluò ānquán) | Hindi: साइबर सुरक्षा (Sāibara surakṣā)*
 - **Ethical Hacking** — Using hacking skills legally to find weaknesses and fix them.
   - Example: Company hires a tester to probe their site.
-  - Mandarin: 道德黑客 (Dàodé hēikè) | Hindi: नैतिक हैकिंग (Naitika haikiṅga)
+  - *Mandarin: 道德黑客 (Dàodé hēikè) | Hindi: नैतिक हैकिंग (Naitika haikiṅga)*
 - **Vulnerability** — A flaw that makes a system unsafe.
   - Example: Outdated app with known bugs.
-  - Mandarin: 漏洞 (Lòudòng) | Hindi: कमजोरी (Kamajorī)
+  - *Mandarin: 漏洞 (Lòudòng) | Hindi: कमजोरी (Kamajorī)*
 - **Exploit** — A way to use a vulnerability to cause harm.
   - Example: Code that steals data via a bug.
-  - Mandarin: 漏洞利用 (Lòudòng lìyòng) | Hindi: शोषण (Śoṣaṇa)
+  - *Mandarin: 漏洞利用 (Lòudòng lìyòng) | Hindi: शोषण (Śoṣaṇa)*
 - **Zero-Day** — A vulnerability unknown to the vendor, exploited before a fix is available.
   - Example: Hackers attack a new bug before it's patched.
-  - Mandarin: 零日漏洞 (Líng rì lòudòng) | Hindi: शून्य-दिन (Śūnya-dina)
+  - *Mandarin: 零日漏洞 (Líng rì lòudòng) | Hindi: शून्य-दिन (Śūnya-dina)*
 - **Firewall 🧱** — A system that blocks unauthorized access to or from a network.
   - Example: Home router blocks outside threats.
-  - Mandarin: 防火墙 (Fánghuǒqiáng) | Hindi: फ़ायरवॉल (Phāyaravāla)
+  - *Mandarin: 防火墙 (Fánghuǒqiáng) | Hindi: फ़ायरवॉल (Phāyaravāla)*
 - **Encryption 🔐** — Scrambling data so only authorized users can read it.
   - Example: WhatsApp messages are encrypted.
-  - Mandarin: 加密 (Jiāmì) | Hindi: एन्क्रिप्शन (Ēnkripśana)
+  - *Mandarin: 加密 (Jiāmì) | Hindi: एन्क्रिप्शन (Ēnkripśana)*
 - **Malware 🦠** — Malicious software designed to harm or exploit systems.
   - Example: Virus deletes files on your computer.
-  - Mandarin: 恶意软件 (Èyì ruǎnjiàn) | Hindi: मैलवेयर (Mailavēyara)
+  - *Mandarin: 恶意软件 (Èyì ruǎnjiàn) | Hindi: मैलवेयर (Mailavēyara)*
 - **Phishing 🎣** — Fraudulent attempts to obtain sensitive information by pretending to be trustworthy.
   - Example: Fake email asks for your password.
-  - Mandarin: 网络钓鱼 (Wǎngluò diàoyú) | Hindi: फ़िशिंग (Phiśiṅga)
+  - *Mandarin: 网络钓鱼 (Wǎngluò diàoyú) | Hindi: फ़िशिंग (Phiśiṅga)*
 - **Ransomware** — Malware that locks your files and demands payment to unlock them.
   - Example: Hospital pays to recover patient data.
-  - Mandarin: 勒索软件 (Lèsuǒ ruǎnjiàn) | Hindi: रैनसमवेयर (Rainsamavēyara)
+  - *Mandarin: 勒索软件 (Lèsuǒ ruǎnjiàn) | Hindi: रैनसमवेयर (Rainsamavēyara)*
 - **Threat Actor 👤** — An individual or group responsible for a cyberattack.
   - Example: Cybercriminals targeting banks.
-  - Mandarin: 威胁行为者 (Wēixié xíngwéi zhě) | Hindi: खतरा कर्ता (Khatara kartā)
+  - *Mandarin: 威胁行为者 (Wēixié xíngwéi zhě) | Hindi: खतरा कर्ता (Khatara kartā)*
 - **Social Engineering 🎭** — Manipulating people into giving up confidential info.
   - Example: Caller pretends to be IT support.
-  - Mandarin: 社会工程 (Shèhuì gōngchéng) | Hindi: सामाजिक अभियांत्रिकी (Sāmājika abhiyāntrikī)
+  - *Mandarin: 社会工程 (Shèhuì gōngchéng) | Hindi: सामाजिक अभियांत्रिकी (Sāmājika abhiyāntrikī)*
 - **Red Team** — Security experts who simulate attacks to test defenses.
   - Example: Red team tries to breach company systems.
-  - Mandarin: 红队 (Hóng duì) | Hindi: रेड टीम (Rēḍa ṭīma)
+  - *Mandarin: 红队 (Hóng duì) | Hindi: रेड टीम (Rēḍa ṭīma)*
 - **Blue Team** — Defenders who protect systems from attacks.
   - Example: Blue team monitors for threats.
-  - Mandarin: 蓝队 (Lán duì) | Hindi: ब्लू टीम (Blū ṭīma)
+  - *Mandarin: 蓝队 (Lán duì) | Hindi: ब्लू टीम (Blū ṭīma)*
 - **Penetration Test** — Authorized simulated attack to find vulnerabilities.
   - Example: Consultant tests company security.
-  - Mandarin: 渗透测试 (Shèntòu cèshì) | Hindi: पैठ परीक्षण (Paiṭha pariṣaṇa)
+  - *Mandarin: 渗透测试 (Shèntòu cèshì) | Hindi: पैठ परीक्षण (Paiṭha pariṣaṇa)*
 - **Incident Response 🚨** — Steps taken after a security breach.
   - Example: IT team investigates a data leak.
-  - Mandarin: 事件响应 (Shìjiàn xiǎngyìng) | Hindi: घटना प्रतिक्रिया (Ghaṭanā pratikriyā)
+  - *Mandarin: 事件响应 (Shìjiàn xiǎngyìng) | Hindi: घटना प्रतिक्रिया (Ghaṭanā pratikriyā)*
 - **SOC** — Security Operations Center, monitors and responds to threats.
   - Example: SOC tracks suspicious activity 24/7.
-  - Mandarin: 安全运营中心 (Ānquán yùnyíng zhōngxīn) | Hindi: सुरक्षा संचालन केंद्र (Surakṣā san̄cālana kēndra)
+  - *Mandarin: 安全运营中心 (Ānquán yùnyíng zhōngxīn) | Hindi: सुरक्षा संचालन केंद्र (Surakṣā san̄cālana kēndra)*
 - **SIEM** — Security Information and Event Management, collects and analyzes security data.
   - Example: SIEM alerts on unusual login attempts.
-  - Mandarin: 安全信息与事件管理 (Ānquán xìnxī yǔ shìjiàn guǎnlǐ) | Hindi: सुरक्षा सूचना और घटना प्रबंधन (Surakṣā sūcanā aura ghaṭanā prabandhana)
+  - *Mandarin: 安全信息与事件管理 (Ānquán xìnxī yǔ shìjiàn guǎnlǐ) | Hindi: सुरक्षा सूचना और घटना प्रबंधन (Surakṣā sūcanā aura ghaṭanā prabandhana)*
 - **Kill Chain** — Stages of a cyberattack from reconnaissance to exfiltration.
   - Example: Mapping how hackers break in and steal data.
-  - Mandarin: 杀伤链 (Shāshāng liàn) | Hindi: किल चेन (Kila chēna)
+  - *Mandarin: 杀伤链 (Shāshāng liàn) | Hindi: किल चेन (Kila chēna)*
 - **Indicator of Compromise** — Evidence that a system has been breached.
   - Example: Unusual network traffic.
-  - Mandarin: 威胁指标 (Wēixié zhǐbiāo) | Hindi: समझौता संकेतक (Samajhautā saṅkētaka)
+  - *Mandarin: 威胁指标 (Wēixié zhǐbiāo) | Hindi: समझौता संकेतक (Samajhautā saṅkētaka)*
 - **Patch Management** — Updating software to fix vulnerabilities.
   - Example: Installing security updates.
-  - Mandarin: 补丁管理 (Bǔdīng guǎnlǐ) | Hindi: पैच प्रबंधन (Paiča prabandhana)
+  - *Mandarin: 补丁管理 (Bǔdīng guǎnlǐ) | Hindi: पैच प्रबंधन (Paiča prabandhana)*
 - **Backup** — Copying data to restore after loss or attack.
   - Example: Cloud backup saves your files.
-  - Mandarin: 备份 (Bèifèn) | Hindi: बैकअप (Baikapa)
+  - *Mandarin: 备份 (Bèifèn) | Hindi: बैकअप (Baikapa)*
 - **Disaster Recovery** — Plans to restore systems after a major incident.
   - Example: Company recovers from ransomware.
-  - Mandarin: 灾难恢复 (Zāinàn huīfù) | Hindi: आपदा पुनर्प्राप्ति (Āpadā punarprāpti)
+  - *Mandarin: 灾难恢复 (Zāinàn huīfù) | Hindi: आपदा पुनर्प्राप्ति (Āpadā punarprāpti)*
