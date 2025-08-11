@@ -1,0 +1,65 @@
+# 06 — Legal and Ethics
+
+- **Privacy Regulations** — Laws protecting personal data.
+  - Example: Don’t share phone numbers without consent.
+  - Mandarin: 隐私法规 (Yǐnsī fǎguī) | Hindi: गोपनीयता नियम (Gopanīyatā niyama)
+- **Legal Concerns** — Potential law-related issues affecting the business.
+  - Example: Complying with local data handling rules.
+  - Mandarin: 法律问题 (Fǎlǜ wèntí) | Hindi: कानूनी चिंताएँ (Kānūnī cintā’ēṁ)
+- **Jurisdiction** — Area where laws apply.
+  - Example: US law vs EU law for data.
+  - Mandarin: 司法管辖权 (Sīfǎ guǎnxiá quán) | Hindi: क्षेत्राधिकार (Kṣētrādhikāra)
+- **Compliance** — Following rules and regulations.
+  - Example: GDPR compliance for user data.
+  - Mandarin: 合规 (Hégé) | Hindi: अनुपालन (Anupālana)
+- **Intellectual Property** — Legal rights for creations and inventions.
+  - Example: Copyright for software code.
+  - Mandarin: 知识产权 (Zhīshì chǎnquán) | Hindi: बौद्धिक संपदा (Bauddhika sampadā)
+- **Copyright** — Exclusive rights to reproduce and distribute works.
+  - Example: Copyright for a book.
+  - Mandarin: 版权 (Bǎnquán) | Hindi: कॉपीराइट (Kŏpīra'iṭa)
+- **Patent** — Legal protection for inventions.
+  - Example: Patent for a new device.
+  - Mandarin: 专利 (Zhuānlì) | Hindi: पेटेंट (Pēṭēnṭa)
+- **Trademark** — Symbol or word legally representing a brand.
+  - Example: Nike swoosh logo.
+  - Mandarin: 商标 (Shāngbiāo) | Hindi: ट्रेडमार्क (Ṭrēḍamārka)
+- **Arbitration** — Resolving disputes outside of court.
+  - Example: Arbitration for contract disagreements.
+  - Mandarin: 仲裁 (Zhòngcái) | Hindi: मध्यस्थता (Madhyasthata)
+- **Litigation** — Legal process in court.
+  - Example: Lawsuit over patent rights.
+  - Mandarin: 诉讼 (Sùsòng) | Hindi: मुकदमा (Mukadama)
+- **Due Diligence** — Careful review before a deal or investment.
+  - Example: Checking company finances before buying.
+  - Mandarin: 尽职调查 (Jìnzhí diàochá) | Hindi: समुचित जांच (Samuchita jāncha)
+- **Whistleblower** — Person who exposes wrongdoing.
+  - Example: Employee reports fraud.
+  - Mandarin: 吹哨人 (Chuīshào rén) | Hindi: व्हिसलब्लोअर (Vhisalablō'ara)
+- **GDPR** — European privacy law.
+  - Example: Right to be forgotten online.
+  - Mandarin: 通用数据保护条例 (Tōngyòng shùjù bǎohù tiáolì) | Hindi: सामान्य डेटा संरक्षण नियम (Sāmānya ḍēṭā sanrakṣaṇa niyama)
+- **KYC (Know Your Customer)** — Verifying customer identity.
+  - Example: Bank checks your ID.
+  - Mandarin: 了解你的客户 (Liǎojiě nǐ de kèhù) | Hindi: अपने ग्राहक को जानें (Apne grāhaka kō jāneṁ)
+- **AML (Anti-Money Laundering)** — Preventing illegal money flows.
+  - Example: Bank monitors suspicious transactions.
+  - Mandarin: 反洗钱 (Fǎn xǐqián) | Hindi: मनी लॉन्डरिंग रोधी (Manī lŏṇḍariṅga rōdhī)
+- **Insider Trading** — Illegal trading based on confidential info.
+  - Example: Employee buys stock before news release.
+  - Mandarin: 内幕交易 (Nèimù jiāoyì) | Hindi: इनसाइडर ट्रेडिंग (Inasā'iḍara ṭrēḍiṅga)
+- **Sanctions** — Legal restrictions on trade or activity.
+  - Example: Banned from doing business with certain countries.
+  - Mandarin: 制裁 (Zhìcái) | Hindi: प्रतिबंध (Pratibandha)
+- **Forensics** 🧬 — Scientific analysis for legal evidence.
+  - Example: Digital forensics to recover deleted files.
+  - Mandarin: 法医 (Fǎyī) | Hindi: फॉरेंसिक (Phŏrēnsika)
+- **Chain Analysis** — Tracking blockchain transactions for legal reasons.
+  - Example: Trace stolen crypto.
+  - Mandarin: 链分析 (Liàn fēnxī) | Hindi: चेन विश्लेषण (Chēna viślēṣaṇa)
+- **Risk Assessment** — Evaluating potential legal risks.
+  - Example: Assessing risk before launching a product.
+  - Mandarin: 风险评估 (Fēngxiǎn pínggū) | Hindi: जोखिम मूल्यांकन (Jōkhima mūlyāṅkana)
+- **Vulnerability Assessment** — Checking for weaknesses in systems.
+  - Example: Security audit for compliance.
+  - Mandarin: 漏洞评估 (Lòudòng pínggū) | Hindi: कमजोरी मूल्यांकन (Kamajorī mūlyāṅkana)

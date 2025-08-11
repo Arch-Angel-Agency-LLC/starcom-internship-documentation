@@ -1,0 +1,69 @@
+# 02 — Intelligence (OSINT, HUMINT, etc.)
+
+## 1. Core types
+- **Intel** — Useful information about a topic or person.
+  - Example: Report of common scams.
+  - Mandarin: 情报 (Qíngbào) | Hindi: खुफिया (Khuphiyā)
+- **OSINT (Open Source Intelligence)** — Public info from websites, social media, filings.
+  - Example: Review a target’s public X/LinkedIn posts.
+  - Mandarin: 公开来源情报 (Gōngkāi láiyuán qíngbào) | Hindi: ओपन सोर्स इंटेलिजेंस (Ōpana sōrsa iṇṭelijensa)
+- **HUMINT (Human Intelligence)** — Info gathered from people (conversations, interviews).
+  - Example: Talk to a customer to learn pains.
+  - Mandarin: 人力情报 (Rénlì qíngbào) | Hindi: मानव खुफिया (Mānava khuphiyā)
+- **SIGINT (Signals Intelligence)** — Info from intercepted communications (radio, phone, internet).
+  - Example: Listening to encrypted radio traffic.
+  - Mandarin: 信号情报 (Xìnhào qíngbào) | Hindi: सिग्नल इंटेलिजेंस (Siganala iṇṭelijensa)
+- **IMINT (Imagery Intelligence)** — Info from images (satellite, drone, photos).
+  - Example: Satellite images of military bases.
+  - Mandarin: 图像情报 (Túxiàng qíngbào) | Hindi: इमेज इंटेलिजेंस (Imēja iṇṭelijensa)
+- **MASINT (Measurement & Signature Intelligence)** — Info from sensors (radar, chemical, acoustic).
+  - Example: Detecting nuclear tests via seismic sensors.
+  - Mandarin: 测量与特征情报 (Cèliáng yǔ tèzhēng qíngbào) | Hindi: माप और हस्ताक्षर इंटेलिजेंस (Māpa aura hastākṣara iṇṭelijensa)
+- **TECHINT (Technical Intelligence)** — Info about equipment and technology.
+  - Example: Analyzing enemy drones.
+  - Mandarin: 技术情报 (Jìshù qíngbào) | Hindi: तकनीकी इंटेलिजेंस (Taknīkī iṇṭelijensa)
+- **FININT (Financial Intelligence)** — Info about financial transactions and flows.
+  - Example: Tracking money laundering.
+  - Mandarin: 金融情报 (Jīnróng qíngbào) | Hindi: वित्तीय इंटेलिजेंस (Vittīya iṇṭelijensa)
+- **GEOINT (Geospatial Intelligence)** — Info about geographic locations and features.
+  - Example: Mapping terrain for military planning.
+  - Mandarin: 地理空间情报 (Dìlǐ kōngjiān qíngbào) | Hindi: भू-स्थानिक इंटेलिजेंस (Bhū-sthānika iṇṭelijensa)
+- **Cyber Threat Intelligence 💻** — Info about cyber risks and threat actors.
+  - Example: Report on new malware campaigns.
+  - Mandarin: 网络威胁情报 (Wǎngluò wēixié qíngbào) | Hindi: साइबर खतरा इंटेलिजेंस (Sāibara khatara iṇṭelijensa)
+- **Counterintelligence 🕵️‍♂️** — Activities to prevent spying and intelligence leaks.
+  - Example: Identifying insider threats.
+  - Mandarin: 反间谍 (Fǎn jiàndié) | Hindi: प्रतिवेदक (Prativēdaka)
+- **Tradecraft** — Techniques and methods used in intelligence work.
+  - Example: Using code words and dead drops.
+  - Mandarin: 情报技巧 (Qíngbào jìqiǎo) | Hindi: जासूसी तकनीक (Jāsūsī taknīka)
+- **Source Validation** — Checking if an information source is reliable.
+  - Example: Verifying a tip from a whistleblower.
+  - Mandarin: 来源验证 (Láiyuán yànzhèng) | Hindi: स्रोत सत्यापन (Srota satyāpana)
+- **Asset** — A person or resource providing intelligence.
+  - Example: Informant inside a company.
+  - Mandarin: 线人 (Xiànrén) | Hindi: संपत्ति (Sampaṭṭi)
+- **Handler** — Person who manages intelligence assets.
+  - Example: Officer who meets with informants.
+  - Mandarin: 负责人 (Fùzérén) | Hindi: प्रबंधक (Prabandhaka)
+- **Dead Drop** — Secret location for exchanging info or items.
+  - Example: Leaving a USB in a park bench.
+  - Mandarin: 死信箱 (Sǐxìnxiāng) | Hindi: गुप्त स्थान (Gupta sthāna)
+- **Cover Story** — False background to hide true identity or intent.
+  - Example: Spy pretends to be a tourist.
+  - Mandarin: 掩护故事 (Yǎnhù gùshì) | Hindi: आवरण कथा (Āvaraṇa kathā)
+- **Surveillance 👀** — Monitoring people, places, or things for intelligence.
+  - Example: CCTV cameras in public spaces.
+  - Mandarin: 监视 (Jiānshì) | Hindi: निगरानी (Nigarānī)
+- **Reconnaissance** — Preliminary survey to gather information.
+  - Example: Scout checks out a location before a mission.
+  - Mandarin: 侦察 (Zhēnchá) | Hindi: टोह लेना (Ṭoha lenā)
+- **Signal Analysis** — Studying intercepted signals for meaning.
+  - Example: Decoding encrypted messages.
+  - Mandarin: 信号分析 (Xìnhào fēnxī) | Hindi: सिग्नल विश्लेषण (Siganala viślēṣaṇa)
+- **HUMINT Source** — Person who provides human intelligence.
+  - Example: Employee sharing insider info.
+  - Mandarin: 人力情报来源 (Rénlì qíngbào láiyuán) | Hindi: मानव स्रोत (Mānava srota)
+- **Black Bag Operation** — Covert entry to obtain intelligence.
+  - Example: Breaking into an office to copy files.
+  - Mandarin: 黑包行动 (Hēi bāo xíngdòng) | Hindi: काला बैग ऑपरेशन (Kālā baiga ōpērēśana)

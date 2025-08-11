@@ -1,0 +1,81 @@
+# 04 — Marketing Basics
+
+## 1. General
+- **Marketing** — Activities to promote and sell products/services.
+  - Example: Ads that explain your product.
+  - Mandarin: 营销 (Yíngxiāo) | Hindi: विपणन (Vipṇana)
+- **Product** — What you sell (physical or digital).
+  - Example: App, report.
+  - Mandarin: 产品 (Chǎnpǐn) | Hindi: उत्पाद (Utpāda)
+- **Service** — Work provided to customers.
+  - Example: Support, consulting.
+  - Mandarin: 服务 (Fúwù) | Hindi: सेवा (Sēvā)
+- **Put to Market** — Offer a product for sale.
+  - Example: Release app for purchase.
+  - Mandarin: 推向市场 (Tuīxiàng shìchǎng) | Hindi: बाजार में लाना (Bāzāra mēṁ lānā)
+- **Subscription** — Recurring fee (e.g., monthly).
+  - Example: Netflix.
+  - Mandarin: 订阅 (Dìngyuè) | Hindi: सदस्यता (Sadasyatā)
+- **Ad Hoc** — One-off purchase as needed.
+  - Example: Buy a single intel report.
+  - Mandarin: 临时购买 (Línshí gòumǎi) | Hindi: तदर्थ खरीद (Tadartha kharīda)
+- **Brand** — Identity and reputation of a company or product.
+  - Example: Apple’s logo and style.
+  - Mandarin: 品牌 (Pǐnpái) | Hindi: ब्रांड (Brāṇḍa)
+- **Branding** — Actions to shape how people see your brand.
+  - Example: Consistent colors and messaging.
+  - Mandarin: 品牌建设 (Pǐnpái jiànshè) | Hindi: ब्रांडिंग (Brāṇḍiṅga)
+- **Positioning** — How a product is placed in the market.
+  - Example: Luxury vs budget.
+  - Mandarin: 定位 (Dìngwèi) | Hindi: स्थिति निर्धारण (Sthiti nirdhāraṇa)
+- **Target Audience** 🎯 — Specific group you want to reach.
+  - Example: Young professionals.
+  - Mandarin: 目标受众 (Mùbiāo shòuzhòng) | Hindi: लक्षित दर्शक (Lakṣita darśaka)
+- **Segmentation** — Dividing market into groups.
+  - Example: Age, location, interests.
+  - Mandarin: 市场细分 (Shìchǎng xìfēn) | Hindi: विभाजन (Vibhājana)
+- **Value Proposition** 💡 — Unique benefit offered to customers.
+  - Example: Fastest delivery in the city.
+  - Mandarin: 价值主张 (Jiàzhí zhǔzhāng) | Hindi: मूल्य प्रस्ताव (Mūlya prasṭhāv)
+- **Campaign** — Coordinated marketing effort.
+  - Example: Summer sale ads.
+  - Mandarin: 活动 (Huódòng) | Hindi: अभियान (Abhiyāna)
+- **Lead** — Potential customer interested in your product.
+  - Example: Someone fills out a contact form.
+  - Mandarin: 潜在客户 (Qiánzài kèhù) | Hindi: लीड (Līḍa)
+- **Conversion** — Turning interest into a sale.
+  - Example: Visitor buys after seeing ad.
+  - Mandarin: 转化 (Zhuǎnhuà) | Hindi: रूपांतरण (Rūpāntaraṇa)
+- **Funnel** — Stages from awareness to purchase.
+  - Example: Ad → website → signup → buy.
+  - Mandarin: 漏斗 (Lòudǒu) | Hindi: फ़नल (Phanala)
+- **Call to Action (CTA)** — Prompt to take action.
+  - Example: “Sign up now!” button.
+  - Mandarin: 行动号召 (Xíngdòng hàozhào) | Hindi: कार्रवाई के लिए आह्वान (Kāryavā'ī kē li'ē āhvāna)
+- **Content Marketing** — Using articles, videos, etc. to attract customers.
+  - Example: Blog posts about your product.
+  - Mandarin: 内容营销 (Nèiróng yíngxiāo) | Hindi: सामग्री विपणन (Sāmagrī vipṇana)
+- **Social Proof** 👍 — Evidence others trust your product.
+  - Example: Customer reviews.
+  - Mandarin: 社会认同 (Shèhuì rèntóng) | Hindi: सामाजिक प्रमाण (Sāmājika pramāṇa)
+- **Influencer** — Person with large following who promotes products.
+  - Example: Celebrity posts about your app.
+  - Mandarin: 网红 (Wǎnghóng) | Hindi: प्रभावशाली व्यक्ति (Prabhāvaśālī vyakti)
+- **SEO (Search Engine Optimization)** — Improving website to rank higher in search.
+  - Example: Using keywords in blog posts.
+  - Mandarin: 搜索引擎优化 (Sōusuǒ yǐnqíng yōuhuà) | Hindi: खोज इंजन अनुकूलन (Khōja iñjana anukūlana)
+- **PPC (Pay Per Click)** — Online ads paid for each click.
+  - Example: Google Ads.
+  - Mandarin: 按点击付费广告 (Àn diǎnjī fùfèi guǎnggào) | Hindi: प्रति क्लिक भुगतान (Prati klik bhugatāna)
+- **Retargeting** — Showing ads to people who visited your site.
+  - Example: Facebook ads follow you around.
+  - Mandarin: 重定向广告 (Chóng dìngxiàng guǎnggào) | Hindi: पुनः लक्षित विज्ञापन (Punaḥ lakṣita vijñāpana)
+- **CRM (Customer Relationship Management)** — System to manage customer interactions.
+  - Example: Salesforce software.
+  - Mandarin: 客户关系管理 (Kèhù guānxì guǎnlǐ) | Hindi: ग्राहक संबंध प्रबंधन (Grāhaka sambandha prabandhana)
+- **A/B Testing** — Comparing two versions to see which works better.
+  - Example: Test two ad headlines.
+  - Mandarin: A/B测试 (A/B cèshì) | Hindi: ए/बी परीक्षण (Ē/Bī pariṣaṇa)
+- **Analytics** 📊 — Measuring and analyzing marketing data.
+  - Example: Track website visitors.
+  - Mandarin: 分析 (Fēnxī) | Hindi: विश्लेषण (Viślēṣaṇa)

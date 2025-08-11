@@ -1,0 +1,96 @@
+# 03 — Business Fundamentals
+
+## 1. General terms
+- **Business Model** — How a company makes money.
+  - Example: Subscription vs one-off sales.
+  - Mandarin: 商业模式 (Shāngyè móshì) | Hindi: व्यवसाय मॉडल (Vyavasāya mŏḍala)
+- **Market** — Group of potential buyers.
+  - Example: People who shop online.
+  - Mandarin: 市场 (Shìchǎng) | Hindi: बाजार (Bāzāra)
+- **Marketplace** — Platform where buying/selling happens.
+  - Example: Amazon.
+  - Mandarin: 市场平台 (Shìchǎng píngtái) | Hindi: बाजार मंच (Bāzāra mañca)
+- **Disrupt the Market** — New approach that challenges incumbents.
+  - Example: Freemium where others charge.
+  - Mandarin: 颠覆市场 (Diānfù shìchǎng) | Hindi: बाजार को बाधित करना (Bāzāra kō bādhita karanā)
+- **Saturated Market** — Too many similar players.
+  - Example: Coffee shops cluster.
+  - Mandarin: 饱和市场 (Bǎohé shìchǎng) | Hindi: संतृप्त बाजार (Santṛpta bāzāra)
+- **Perpetual Market Need** — Demand that persists long-term.
+  - Example: Anti-scam protection.
+  - Mandarin: 永续市场需求 (Yǒngxù shìchǎng xūqiú) | Hindi: स्थायी बाजार आवश्यकता (Sthāyī bāzāra āvaśyakatā)
+- **B2C** — Business sells directly to consumers.
+  - Example: Retail, app stores.
+  - Mandarin: 企业对消费者 (Qǐyè duì xiāofèizhě) | Hindi: व्यवसाय से उपभोक्ता (Vyavasāya sē upabhōktā)
+- **B2B** — Business sells to other businesses.
+  - Example: Software for companies.
+  - Mandarin: 企业对企业 (Qǐyè duì qǐyè) | Hindi: व्यवसाय से व्यवसाय (Vyavasāya sē vyavasāya)
+- **B2G** — Business sells to government.
+  - Example: Security firm contracts with police.
+  - Mandarin: 企业对政府 (Qǐyè duì zhèngfǔ) | Hindi: व्यवसाय से सरकार (Vyavasāya sē sarakāra)
+- **C2C** — Consumers sell to other consumers.
+  - Example: eBay, secondhand apps.
+  - Mandarin: 消费者对消费者 (Xiāofèizhě duì xiāofèizhě) | Hindi: उपभोक्ता से उपभोक्ता (Upabhōktā sē upabhōktā)
+- **C2B** — Consumers sell to businesses.
+  - Example: Influencer licensing photos to brands.
+  - Mandarin: 消费者对企业 (Xiāofèizhě duì qǐyè) | Hindi: उपभोक्ता से व्यवसाय (Upabhōktā sē vyavasāya)
+- **Value Proposition 💡** — Unique benefit offered to customers.
+  - Example: Fastest delivery in the city.
+  - Mandarin: 价值主张 (Jiàzhí zhǔzhāng) | Hindi: मूल्य प्रस्ताव (Mūlya prasṭhāv)
+- **Revenue Stream 💸** — Source of company income.
+  - Example: Ads, subscriptions, sales.
+  - Mandarin: 收入来源 (Shōurù láiyuán) | Hindi: राजस्व स्रोत (Rājasva srota)
+- **Cost Structure** — Breakdown of company expenses.
+  - Example: Salaries, rent, marketing.
+  - Mandarin: 成本结构 (Chéngběn jiégòu) | Hindi: लागत संरचना (Lāgata sanrachnā)
+- **Customer Segment** — Group of customers with shared traits.
+  - Example: Young professionals.
+  - Mandarin: 客户细分 (Kèhù xìfēn) | Hindi: ग्राहक वर्ग (Grāhaka varga)
+- **MVP (Minimum Viable Product)** — Basic version to test market.
+  - Example: Launching a simple app first.
+  - Mandarin: 最小可行产品 (Zuìxiǎo kěxíng chǎnpǐn) | Hindi: न्यूनतम व्यवहार्य उत्पाद (Nyūnatama vyavahāriya utpāda)
+- **Pivot** — Major change in business direction.
+  - Example: Switching from B2C to B2B.
+  - Mandarin: 转型 (Zhuǎnxíng) | Hindi: धुरी बदलना (Dhurī badalanā)
+- **Burn Rate 🔥** — Speed at which company spends cash.
+  - Example: Startup spends $10k/month.
+  - Mandarin: 烧钱速度 (Shāoqián sùdù) | Hindi: खर्च दर (Kharcha dara)
+- **Runway** — Time until company runs out of money.
+  - Example: 6 months of cash left.
+  - Mandarin: 资金跑道 (Zījīn pǎodào) | Hindi: रनवे (Ranavē)
+- **Churn Rate** — Percentage of customers who leave.
+  - Example: 5% monthly churn.
+  - Mandarin: 流失率 (Liúshī lǜ) | Hindi: चर्न दर (Charna dara)
+- **CAC (Customer Acquisition Cost)** — Cost to get a new customer.
+  - Example: $20 spent per signup.
+  - Mandarin: 获客成本 (Huòkè chéngběn) | Hindi: ग्राहक अधिग्रहण लागत (Grāhaka adhigrahaṇa lāgata)
+- **LTV (Lifetime Value)** — Total revenue from a customer.
+  - Example: $500 per user over 3 years.
+  - Mandarin: 客户终身价值 (Kèhù zhōngshēn jiàzhí) | Hindi: ग्राहक जीवनकाल मूल्य (Grāhaka jīvanakāla mūlya)
+- **ARPU (Average Revenue Per User)** — Average income per user.
+  - Example: $5/month per user.
+  - Mandarin: 每用户平均收入 (Měi yònghù píngjūn shōurù) | Hindi: प्रति उपयोगकर्ता औसत आय (Prati upayōgakartā ausata āya)
+- **MRR (Monthly Recurring Revenue)** — Regular monthly income.
+  - Example: $10,000/month from subscriptions.
+  - Mandarin: 月度经常性收入 (Yuèdù jīngcháng xìng shōurù) | Hindi: मासिक आवर्ती आय (Māsika āvartī āya)
+- **ARR (Annual Recurring Revenue)** — Regular yearly income.
+  - Example: $120,000/year from subscriptions.
+  - Mandarin: 年度经常性收入 (Niándù jīngcháng xìng shōurù) | Hindi: वार्षिक आवर्ती आय (Vārṣika āvartī āya)
+- **Cap Table** — Table showing company ownership.
+  - Example: Founders own 60%, investors 40%.
+  - Mandarin: 股权表 (Gǔquán biǎo) | Hindi: पूंजी तालिका (Pūnjī tālikā)
+- **Term Sheet** — Document outlining investment terms.
+  - Example: VC offers $1M for 20% equity.
+  - Mandarin: 条款清单 (Tiáokuǎn qīngdān) | Hindi: टर्म शीट (Ṭarma śīṭa)
+- **Angel Investor 😇** — Individual who invests early in startups.
+  - Example: Wealthy person funds a new app.
+  - Mandarin: 天使投资人 (Tiānshǐ tóuzī rén) | Hindi: एंजेल निवेशक (Ēnjēla nivēśaka)
+- **Venture Capital** — Investment from professional funds.
+  - Example: VC firm backs a fast-growing startup.
+  - Mandarin: 风险投资 (Fēngxiǎn tóuzī) | Hindi: वेंचर कैपिटल (Vēnchara kapiṭala)
+- **IPO** — Initial Public Offering, company goes public.
+  - Example: Shares sold on stock market.
+  - Mandarin: 首次公开募股 (Shǒucì gōngkāi mùgǔ) | Hindi: आईपीओ (Ā'īpī'ō)
+- **Unicorn 🦄** — Startup valued at $1B+.
+  - Example: Famous tech company reaches unicorn status.
+  - Mandarin: 独角兽公司 (Dújiǎoshòu gōngsī) | Hindi: यूनिकॉर्न कंपनी (Yūnikŏrna kampanī)
