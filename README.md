@@ -2,6 +2,18 @@
 
 A central, living knowledge base for interns across multiple tracks (cybersecurity, intelligence, business, marketing, blockchain & technology, legal & ethics, and more). This repository organizes shared concepts, glossaries, playbooks, and onboarding materials to help you ramp quickly and contribute effectively.
 
+## Glossary quick links
+
+Jump straight into the glossaries:
+
+- 🔐 Cybersecurity — [01-cybersecurity.md](intern-glossary/01-cybersecurity.md)
+- 🧠 Intelligence — [02-intelligence.md](intern-glossary/02-intelligence.md)
+- 💼 Business — [03-business.md](intern-glossary/03-business.md)
+- 📣 Marketing — [04-marketing.md](intern-glossary/04-marketing.md)
+- ⛓️ Blockchain & Technology — [05-blockchain-and-technology.md](intern-glossary/05-blockchain-and-technology.md)
+- ⚖️ Legal & Ethics — [06-legal-and-ethics.md](intern-glossary/06-legal-and-ethics.md)
+- 🌐 Translations (Mandarin/Hindi) — [07-translations-zh-hi.md](intern-glossary/07-translations-zh-hi.md)
+
 ## Repository structure
 
 Current folders
